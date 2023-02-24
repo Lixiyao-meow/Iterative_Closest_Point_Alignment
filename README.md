@@ -1,6 +1,6 @@
 # Iterative_Closest_Point_Alignment
 
-The ICP algorithm is a classical method for alignment using rigid transformation. It alternates between the closest query point in the target set and the minimization of the distance between corresponding points. It is guaranteed to converge to a locally optimal alignment.
+The ICP algorithm is a classical method for alignment using rigid transformation. It alternates between the closest query point in the target set and the minimization of the distance between corresponding points. It is guaranteed to converge to a locally optimal alignment. For a more detailed explanation, please refer to the report.
 
 ## Results
 
