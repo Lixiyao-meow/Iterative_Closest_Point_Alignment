@@ -15,3 +15,4 @@ The ICP algorithm is a classical method for alignment using rigid transformation
 
 ### Multiple models alignment
 <img src="https://github.com/Lixiyao-meow/Iterative_Closest_Point_Alignment/blob/main/results/Alignment1.png" width="560">
+<img src="https://github.com/Lixiyao-meow/Iterative_Closest_Point_Alignment/blob/main/results/Alignment2.png" width="560">
